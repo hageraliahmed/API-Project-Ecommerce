@@ -30,25 +30,6 @@ This project is a back-end for an e-commerce website, built using the ASP.NET Co
 -	Before Use Apis, You Must Install MSSQL Serve, Visual Studio
 -	Using  update-database to Because It The DB Work As Code First.
 **BaseUrl**= https://localhost:7205
-### User End Point:
- ![image](https://github.com/Mustafa-Abdulrahman/E-Coomerce-API-Project/assets/100872559/b5c56837-2d51-4ead-a43f-5f506f610b0c)
-
-### Product End Point:
- ![image](https://github.com/Mustafa-Abdulrahman/E-Coomerce-API-Project/assets/100872559/b1bb35b3-11e6-4ce3-a96d-832608b9b622)
-
-### Order End Point:
- ![image](https://github.com/Mustafa-Abdulrahman/E-Coomerce-API-Project/assets/100872559/3ede18e1-93fc-4c63-8f3e-0f9675d956f6)
-
-### FileImages End Point:
- ![image](https://github.com/Mustafa-Abdulrahman/E-Coomerce-API-Project/assets/100872559/76939f58-e73d-4d48-9d07-92728f7a7e80)
-
-### Category End Point:
- 
-![image](https://github.com/Mustafa-Abdulrahman/E-Coomerce-API-Project/assets/100872559/2fbe1a68-0c64-4b44-91f3-29e019230139)
-
-### Cart End Point:
-
- ![image](https://github.com/Mustafa-Abdulrahman/E-Coomerce-API-Project/assets/100872559/5dbb4225-1339-41e5-93c4-99f3f362482b)
 
 
 
